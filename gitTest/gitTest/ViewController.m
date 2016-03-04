@@ -12,6 +12,8 @@
 
 @property (nonatomic,strong)NSString *test;
 
+@property (nonatomic,strong)NSString *test122;
+
 @end
 
 @implementation ViewController
